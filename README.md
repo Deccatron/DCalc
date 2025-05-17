@@ -116,7 +116,7 @@ python calc.py
 ```
 
 ## License
-[Your chosen license]
+MIT
 
 ## Author
 Deccatron
