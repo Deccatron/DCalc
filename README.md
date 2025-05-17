@@ -1,4 +1,4 @@
-# DCalc - Advanced Scientific Calculator
+# DCalc - Advanced Scientific Graphical Calculator
 
 DCalc is a powerful, feature-rich scientific calculator built with Python and CustomTkinter. It combines the functionality of multiple specialized calculators into a single, user-friendly application.
 
