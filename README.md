@@ -112,7 +112,7 @@ pip install customtkinter numpy matplotlib sympy webview
 ## Usage
 Run the main script:
 ```bash
-python calc.py
+python DCalc.py
 ```
 
 ## License
